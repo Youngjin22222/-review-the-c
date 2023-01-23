@@ -2,7 +2,7 @@
 using namespace std;
 
 int main() {
-    cout << "\n\n\nfuck\n\n\n" << endl;
+    cout << "\n\n\nfuck@@@@@\n\n\n" << endl;
     return 0;
 }
 
